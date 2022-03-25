@@ -10,6 +10,7 @@ export const useStyles = createUseStyles({
 		backgroundColor: '#f6f6f6',
 		paddingLeft: '24px',
 		paddingRight: '24px',
+		zIndex: 10,
 	},
 }, {
 	name: 'header'
